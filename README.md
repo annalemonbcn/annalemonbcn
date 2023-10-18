@@ -1,5 +1,5 @@
 # 👋 Hi there, I'm Anna
-
+<img src="https://raw.githubusercontent.com/annalemonbcn/annalemonbcn/main/1683972766257.jpeg" />
 <div>
 👩🏻‍💻 I’m a Front End Web Developer<br>
 🛠️ I work with React, Vue, Vanilla Js and jQuery<br>
