@@ -3,7 +3,7 @@
 <div>
 👩🏻‍💻 I’m a Front End Web Developer<br>
 🛠️ I work with React, Vue, Vanilla Js and jQuery<br>
-🎓 I'm also learning a Higher Technical Education Program in Web Application Development<br>
+🎓 I'm also enrolled in a Higher Technical Education Program in Web Application Development<br>
 📩 You can reach out to me through these channels:
 <ul>
 <li>
