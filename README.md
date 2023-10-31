@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/annalemonbcn/annalemonbcn/main/1683972766257.jpeg" />
 <div>
 👩🏻‍💻 I’m a Front End Web Developer<br>
-🛠️ I work with React, Vue, Vanilla Js and jQuery<br>
+🛠️ I work with JavaScript, TypeScript, React, Vue, Vanilla Js and jQuery<br>
 🎓 I'm also enrolled in a Higher Technical Education Program in Web Application Development<br>
 📩 You can reach out to me through these channels:
 <ul>
