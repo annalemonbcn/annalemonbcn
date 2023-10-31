@@ -45,6 +45,18 @@ or check out my <a href="https://www.linkedin.com/in/anna-esteve-romagosa/">Link
 
 ## 🛠️ Latest projects
 
+### React project - https://hackathon-jump2digital-git-develop-annalemonbcn.vercel.app
+
+<div>
+👩🏻‍💻 Project made with React and Typescript: it's the preliminary phase to be part of the Jump2Digital 2023's hackathon.
+
+💡 Built with **React.js**, **React Router**, **TypeScript**, **Tailwind CSS** and more.
+
+➡ Check it out: https://hackathon-jump2digital-git-develop-annalemonbcn.vercel.app<br>
+ℹ️ More info on Github: https://hackathon-jump2digital-git-develop-annalemonbcn.vercel.app
+
+</div>
+
 ### React project - https://lemoninfilm.vercel.app/
 
 <div>
