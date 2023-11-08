@@ -45,6 +45,16 @@ or check out my <a href="https://www.linkedin.com/in/anna-esteve-romagosa/">Link
 
 ## 🛠️ Latest projects
 
+### React project - https://mvst-challenge-anna-esteve.vercel.app/
+
+<div>
+👩🏻‍💻 Project made with React and Typescript: is a search engine for GitHub users and their repositories.
+💡 Built with React.js, TypeScript, Tailwind CSS and more.
+
+➡ Check it out: https://mvst-challenge-anna-esteve.vercel.app/
+ℹ️ More info on Github: https://github.com/annalemonbcn/mvst-challenge-anna-esteve
+</div>
+
 ### React project - https://hackathon-annaesteve-jump2digital.vercel.app/
 
 <div>
