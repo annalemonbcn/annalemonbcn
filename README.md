@@ -1,9 +1,9 @@
 # 👋 Hi there, I'm Anna
 <img src="https://raw.githubusercontent.com/annalemonbcn/annalemonbcn/main/1683972766257.jpeg" />
 <div>
-  👩🏻‍💻 Front-end Developer with expertise in JavaScript, TypeScript, and React.
-  🛠️ Proven experience in client-focused solutions and a strong foundation in both mobile and web applications.
-  🎓 Currently expanding skills in backend development for a well-rounded tech stack.
+  👩🏻‍💻 Front-end Developer with expertise in JavaScript, TypeScript, and React.<br>
+  🛠️ Proven experience in client-focused solutions and a strong foundation in both mobile and web applications.<br>
+  🎓 Currently expanding skills in backend development for a well-rounded tech stack.<br>
   📩 Reach out to me:
 <ul>
 <li>
