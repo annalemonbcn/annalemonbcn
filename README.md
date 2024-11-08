@@ -24,7 +24,6 @@ or check out my <a href="https://www.linkedin.com/in/anna-esteve-romagosa/">Link
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="max-width: 100%;">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRARz_HV_bxtIywv7oAwS_r_Y5Sy4dORCQ19g&s" alt="typescript" width="40" height="40" style="max-width: 100%;">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="max-width: 100%;">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png" alt="react-native" width="40" height="40" style="max-width: 100%;">
 </p>
 <p>
 <a href="https://developer.mozilla.org/es/docs/Web/HTML"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="max-width: 100%;"></a>
