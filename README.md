@@ -1,10 +1,10 @@
 # 👋 Hi there, I'm Anna
 <img src="https://raw.githubusercontent.com/annalemonbcn/annalemonbcn/main/1683972766257.jpeg" />
 <div>
-👩🏻‍💻 I’m a Front End Web Developer<br>
-🛠️ I work with JavaScript, TypeScript, React, Vue, Vanilla Js and jQuery<br>
-🎓 I'm also enrolled in a Higher Technical Education Program in Web Application Development<br>
-📩 You can reach out to me through these channels:
+  👩🏻‍💻 Front-end Developer with expertise in JavaScript, TypeScript, and React.
+  🛠️ Proven experience in client-focused solutions and a strong foundation in both mobile and web applications.
+  🎓 Currently expanding skills in backend development for a well-rounded tech stack.
+  📩 Reach out to me:
 <ul>
 <li>
 <a href="mailto:aesteve8@gmail.com">aesteve8@gmail.com</a>
