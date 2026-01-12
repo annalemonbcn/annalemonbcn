@@ -7,7 +7,7 @@
   📩 Reach out to me:
 <ul>
 <li>
-<a href="mailto:aesteve8@gmail.com">aesteve8@gmail.com</a>
+<a href="mailto:aesteve8@gmail.com">aestevƒe8@gmail.com</a>
 </li>
 <li>
 or check out my <a href="https://www.linkedin.com/in/anna-esteve-romagosa/">LinkedIn</a>
@@ -29,12 +29,33 @@ or check out my <a href="https://www.linkedin.com/in/anna-esteve-romagosa/">Link
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="max-width: 100%;">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="max-width: 100%;">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1024px-Tailwind_CSS_Logo.svg.png" alt="Tailwind" width="40" height="40" style="max-width: 100%;">
-  <img src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" alt="styled components" width="40" height="40" style="max-width: 100%;">
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind" width="40" height="40" style="max-width: 100%;">
+<img src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" alt="styled components" width="40" height="40" style="max-width: 100%;">
 </p>
 </div>
 
 ## 🛠️ Latest projects
+
+### React project - https://github.com/annalemonbcn/cart_nodeJs_front_ts
+
+<div>
+👩🏻‍💻 E-commerce created with React and Typescript: register + login flows connected to a self-developed backend.
+  
+💡 Built with React.js, TypeScript, Styled Components and more.
+
+➡ Check it out: https://fullstack-cart.vercel.app/shop<br>
+ℹ️ More info on Github: https://github.com/annalemonbcn/cart_nodeJs_front_ts
+</div>
+
+### NodeJs project - https://github.com/annalemonbcn/cart_nodeJs
+
+<div>
+👩🏻‍💻 E-commerce backend developed with Mongo, Express and NodeJs.
+  
+💡 Features/flows enabled: register, login, update your profile, and more.
+
+ℹ️ More info on Github: https://github.com/annalemonbcn/cart_nodeJs
+</div>
 
 ### React Native project - https://github.com/annalemonbcn/therapy-time
 
